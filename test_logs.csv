@@ -1,0 +1,25 @@
+timestamp,ip_address,url,action,user_agent,status_code,response_time
+2026-05-05 00:01:23,192.168.1.101,https://g00gle-login.com/verify,GET,Mozilla/5.0 (Windows),200,245
+2026-05-05 00:01:24,192.168.1.102,http://paypa1-security.net/update,POST,Mozilla/5.0 (Android),302,1567
+2026-05-05 00:01:25,10.0.0.15,https://faceb00k-support.co/reset,GET,Chrome/120.0,403,789
+2026-05-05 00:01:26,172.16.0.44,https://amazon-verification.xyz/login,POST,Firefox/115,200,1234
+2026-05-05 00:01:27,192.168.1.77,http://microsoft365-secure.info/activate,GET,Safari/537.36,301,456
+2026-05-05 00:01:28,10.0.0.89,https://netflіx.com/billing-update,POST,Mozilla/5.0,200,987
+2026-05-05 00:01:29,192.168.1.112,bаnkofamerica.com/secure-login,GET,Chrome Mobile,404,2345
+2026-05-05 00:01:30,172.16.0.23,https://update-appleid.ru/verify,POST,Edge/120,200,678
+2026-05-05 00:01:31,10.0.0.156,http://dropbox-security.club/2fa-setup,GET,Mozilla/5.0,302,1456
+2026-05-05 00:01:32,192.168.1.45,https://secure-wellsfargo.net/login,POST,Chrome/119,200,890
+2026-05-05 00:02:15,192.168.1.101,https://login-amazon.co/secure,GET,Mozilla/5.0,200,345
+2026-05-05 00:02:16,10.0.0.78,http://fаcebook-security.net/reset,POST,Android Browser,403,1678
+2026-05-05 00:02:17,172.16.0.101,https://g00gle.com-account.xyz/verify,GET,Chrome/121,301,234
+2026-05-05 00:02:18,192.168.1.234,https://paypal-help-center.info/update,POST,Mozilla/5.0,200,1567
+2026-05-05 00:02:19,10.0.0.45,http://outlook-microsoft365.club/login,GET,Safari,404,789
+2026-05-05 00:02:20,172.16.0.67,https://netflix-account.ru/billing,POST,Firefox,200,1234
+2026-05-05 00:02:21,192.168.1.89,https://bank-security.net/2fa,GET,Edge,302,456
+2026-05-05 00:02:22,10.0.0.123,https://amazon-secure-login.xyz/verify,POST,Mozilla/5.0,200,987
+2026-05-05 00:03:01,192.168.1.156,http://gmaіl-support.com/recover,GET,Chrome Mobile,403,2345
+2026-05-05 00:03:02,172.16.0.34,https://secure-paypal.net/account,POST,Android,200,678
+2026-05-05 00:03:03,10.0.0.200,https://microsoft-security.info/activate,GET,Mozilla/5.0,301,1456
+2026-05-05 00:03:04,192.168.1.67,https://facebook-help.co/reset-password,POST,Safari,200,890
+2026-05-05 00:03:05,172.16.0.89,http://dropbox-cloud.club/storage,GET,Firefox,404,345
+2026-05-05 00:03:06,10.0.0.234,https://wellsfargo-bank.net/login,POST,Edge,200,1678
