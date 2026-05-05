@@ -75,15 +75,15 @@ pip install -r requirements.txt
 python main.py
 
 
-📦 Build Executable
+📦 Build Executable --> 
 pyinstaller --onefile --windowed --icon=assets/icon.ico main.py
 
 
-🚧 Future Improvements
-🌐Integration with VirusTotal API
-🔔Real-time alert system
-📡Live network packet monitoring
-☁Cloud-based threat intelligence
+🚧 Future Improvements --> 
+| 🌐Integration with VirusTotal API |
+| 🔔Real-time alert system |
+| 📡Live network packet monitoring |
+| ☁Cloud-based threat intelligence |
 
 
 👨‍💻 Author -- **Dinesh Kumar | Cybersecurity Student | SOC Enthusiast**
