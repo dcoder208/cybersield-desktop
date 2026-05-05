@@ -91,9 +91,9 @@ pyinstaller --onefile --windowed --icon=assets/icon.ico main.py
 
 ⭐ Support
 If you found this project useful --
-⭐ Star the repo
-🔁 Share it
-💬 Give feedback
+| ⭐ Star the repo |
+| 🔁 Share it |
+| 💬 Give feedback |
 
 
 
