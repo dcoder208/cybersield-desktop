@@ -1,5 +1,6 @@
 🛡️ CyberShield-AI
 AI-Powered Cyber Threat Detection & Log Analysis Tool
+
 CyberShield-AI is a desktop-based cybersecurity tool designed to detect and analyze cyber threats in real time. It combines machine learning, threat intelligence, and log analysis to help identify malicious URLs, suspicious IPs, and abnormal system activities.
 
 🚀 Features
@@ -73,17 +74,20 @@ pip install -r requirements.txt
 # Run application
 python main.py
 
+
 📦 Build Executable
 pyinstaller --onefile --windowed --icon=assets/icon.ico main.py
 
+
 🚧 Future Improvements
-🌐 Integration with VirusTotal API
-🔔 Real-time alert system
-📡 Live network packet monitoring
-☁ Cloud-based threat intelligence
+🌐Integration with VirusTotal API
+🔔Real-time alert system
+📡Live network packet monitoring
+☁Cloud-based threat intelligence
 
 
 👨‍💻 Author -- **Dinesh Kumar | Cybersecurity Student | SOC Enthusiast**
+
 
 ⭐ Support
 If you found this project useful --
